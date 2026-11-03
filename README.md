@@ -2,8 +2,8 @@
 Adiciona arquivos ```.test.js``` para funcoes de javascript usando a biblioteca JEST
 
 ## Requisitos 
-> Node js
-> Terminal ou VS CODE
+> - Node js
+> - Terminal ou VS CODE
 
 ## Como instalar
 - baixe os arquivos na sua maquina usando Git ou pelo navegador
